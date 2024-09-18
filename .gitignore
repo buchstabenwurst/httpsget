@@ -1,0 +1,10 @@
+build/
+.vscode/
+CMakeFiles/
+*.elf
+*.nds
+source/main.c bearssl
+source/main.c example
+source/sockets.h
+source/main.h
+source/tls-info.h
